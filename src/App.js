@@ -5,7 +5,7 @@ import Routering from './components/Routering';
 
 function App() {
   return (
-    <div className="App">
+    <div  className="App">
       <Routering />
       <Header />
     </div>
